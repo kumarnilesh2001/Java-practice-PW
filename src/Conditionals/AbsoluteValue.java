@@ -8,10 +8,12 @@ public class AbsoluteValue {
         System.out.print("Enter your number : ");
         int num = sc.nextInt();
 
-        if(num < 0){
-            System.out.println(-num);
-        }else{
-            System.out.println(num);
-        }
+//        if(num < 0){
+//            System.out.println(-num);
+//        }else{
+//            System.out.println(num);
+//        }
+        System.out.println(Math.abs(num));
+
     }
 }
