@@ -30,11 +30,11 @@ public class binaryTriangle {
 
                 // Methode 2
 
-                if((i + j) % 2 == 0){
-                    System.out.print("1 ");
-                }else{
-                    System.out.print("0 ");
-                }
+//                if((i + j) % 2 == 0){
+//                    System.out.print("1 ");
+//                }else{
+//                    System.out.print("0 ");
+//                }
 
                 // if you want to execute the comment one of the methode
 
